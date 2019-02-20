@@ -1,0 +1,4 @@
+#Wed Feb 20 15:41:17 CST 2019
+base.0=C\:\\Users\\Administrator\\Desktop\\NetEase_Network_Demo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
